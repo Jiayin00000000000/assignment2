@@ -1,0 +1,206 @@
+{
+    "JIAYIN": {
+        "username": "JIAYIN",
+        "password_hash": "6429de34cd74dacb05a3a0008eb45fcb733c41ba72ba1566a96781736e455327",
+        "email": "",
+        "profile": {
+            "age": 18,
+            "height": 150.0,
+            "weight": 50.0,
+            "gender": "female",
+            "created_at": "2025-12-13 18:38:42",
+            "last_login": "2025-12-16 16:23:55",
+            "email": "",
+            "name": ""
+        },
+        "health_data": {},
+        "bmi_history": []
+    },
+    "ALI": {
+        "username": "ALI",
+        "password_hash": "252873aa1f16b503c397da79fef45ddbfda9fecb89372552997d71e610292a7f",
+        "email": "",
+        "profile": {
+            "age": 100,
+            "height": 170.0,
+            "weight": 95.0,
+            "gender": "male",
+            "created_at": "2025-12-13 23:15:25",
+            "last_login": "2025-12-18 12:15:53",
+            "email": "",
+            "name": "ALI"
+        },
+        "health_data": {
+            "2025-12-14": {
+                "sleep": 8.0,
+                "water": 2.0,
+                "mood": 5,
+                "meals": "Mc Donald\nwestern food",
+                "reflection": "drink more cup of water"
+            },
+            "2025-12-16": {
+                "sleep": 8.0,
+                "water": 2.0,
+                "mood": 3,
+                "meals": "Breakfast: Oatmeal with fruits\nLunch: Chicken salad with vegetables\nDinner: Grilled fish with brown rice\nSnacks: Apple, yogurt, nuts",
+                "reflection": "",
+                "timestamp": "2025-12-16 19:39:22"
+            },
+            "2025-12-15": {
+                "sleep": 4.0,
+                "water": 6.0,
+                "mood": 2,
+                "meals": "Breakfast: milk\nLunch: burger\nDinner: chicken chop with orange juice\nSnacks: Apple",
+                "reflection": "",
+                "timestamp": "2025-12-15 12:15:20"
+            },
+            "2025-12-13": {
+                "sleep": 5.0,
+                "water": 4.0,
+                "mood": 4,
+                "meals": "Breakfast: yogurt bowl\nLunch: bagel with milk\nDinner: fried rice\nSnacks: nuts",
+                "reflection": "",
+                "timestamp": "2025-12-13 12:17:44"
+            },
+            "2025-12-12": {
+                "sleep": 9.0,
+                "water": 6.0,
+                "mood": 5,
+                "meals": "Breakfast: yogurt\nLunch: fruit salad\nDinner: wrap\nSnacks: orange",
+                "reflection": "Keep it up for tomorrow!",
+                "timestamp": "2025-12-12 12:20:00"
+            }
+        },
+        "bmi_history": [
+            {
+                "bmi": 32.9,
+                "height": 170.0,
+                "weight": 95.0,
+                "date": "2025-12-14 10:56:29",
+                "timestamp": "2025-12-14 10:56:29"
+            }
+        ]
+    },
+    "guest_2307": {
+        "username": "guest_2307",
+        "password_hash": "6b93ccba414ac1d0ae1e77f3fac560c748a6701ed6946735a49d463351518e16",
+        "email": "Guest User",
+        "profile": {
+            "age": "",
+            "height": "",
+            "weight": "",
+            "gender": "male",
+            "created_at": "2025-12-16 13:11:28",
+            "last_login": "2025-12-16 13:11:28"
+        },
+        "health_data": {},
+        "bmi_history": []
+    },
+    "guest_6548": {
+        "username": "guest_6548",
+        "password_hash": "6b93ccba414ac1d0ae1e77f3fac560c748a6701ed6946735a49d463351518e16",
+        "email": "Guest User",
+        "profile": {
+            "age": 66,
+            "height": 123.0,
+            "weight": 300.0,
+            "gender": "male",
+            "created_at": "2025-12-16 13:47:33",
+            "last_login": "2025-12-16 13:47:33",
+            "email": "",
+            "name": ""
+        },
+        "health_data": {},
+        "bmi_history": []
+    },
+    "guest_2241": {
+        "username": "guest_2241",
+        "password_hash": "6b93ccba414ac1d0ae1e77f3fac560c748a6701ed6946735a49d463351518e16",
+        "email": "Guest User",
+        "profile": {
+            "age": "",
+            "height": "",
+            "weight": "",
+            "gender": "male",
+            "created_at": "2025-12-16 14:06:28",
+            "last_login": "2025-12-16 14:06:28"
+        },
+        "health_data": {},
+        "bmi_history": []
+    },
+    "guest_1756": {
+        "username": "guest_1756",
+        "password_hash": "6b93ccba414ac1d0ae1e77f3fac560c748a6701ed6946735a49d463351518e16",
+        "email": "Guest User",
+        "profile": {
+            "age": "",
+            "height": "",
+            "weight": "",
+            "gender": "male",
+            "created_at": "2025-12-16 14:08:44",
+            "last_login": "2025-12-16 14:08:44"
+        },
+        "health_data": {},
+        "bmi_history": []
+    },
+    "guest_5307": {
+        "username": "guest_5307",
+        "password_hash": "6b93ccba414ac1d0ae1e77f3fac560c748a6701ed6946735a49d463351518e16",
+        "email": "Guest User",
+        "profile": {
+            "age": "",
+            "height": "",
+            "weight": "",
+            "gender": "male",
+            "created_at": "2025-12-16 18:34:26",
+            "last_login": "2025-12-16 18:34:26"
+        },
+        "health_data": {},
+        "bmi_history": []
+    },
+    "guest_2058": {
+        "username": "guest_2058",
+        "password_hash": "6b93ccba414ac1d0ae1e77f3fac560c748a6701ed6946735a49d463351518e16",
+        "email": "Guest User",
+        "profile": {
+            "age": "",
+            "height": "",
+            "weight": "",
+            "gender": "male",
+            "created_at": "2025-12-16 18:45:25",
+            "last_login": "2025-12-16 18:45:25"
+        },
+        "health_data": {},
+        "bmi_history": []
+    },
+    "TEE": {
+        "username": "TEE",
+        "password_hash": "979ae4c32c826f265c49c0b17432ffb18c1bccabc79cede66a99984403fc4ae4",
+        "email": "",
+        "profile": {
+            "age": "",
+            "height": "",
+            "weight": "",
+            "gender": "male",
+            "created_at": "2025-12-16 18:46:00",
+            "last_login": "2025-12-16 18:46:01"
+        },
+        "health_data": {},
+        "bmi_history": []
+    },
+    "guest_5229": {
+        "username": "guest_5229",
+        "password_hash": "6b93ccba414ac1d0ae1e77f3fac560c748a6701ed6946735a49d463351518e16",
+        "email": "Guest User",
+        "profile": {
+            "age": "",
+            "height": "",
+            "weight": "",
+            "gender": "male",
+            "created_at": "2025-12-16 19:15:37",
+            "last_login": "2025-12-16 19:15:37"
+        },
+        "health_data": {},
+        "bmi_history": []
+    }
+}
